@@ -9,3 +9,8 @@
 0.0.0.0 adtools.facebook.com
 0.0.0.0 akamaiedge.net
 0.0.0.0 ocsp.apple.com
+0.0.0.0 tracking.miui.com
+0.0.0.0 intl.miui.com
+0.0.0.0 india.miui.com
+0.0.0.0 rus.miui.com
+
