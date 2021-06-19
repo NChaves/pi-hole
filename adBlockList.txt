@@ -4,3 +4,8 @@
 0.0.0.0 mozit.cloud
 0.0.0.0 samsung-com.112.2o7.net
 0.0.0.0 ads.facebook.com
+0.0.0.0 ad.xiaomi.com
+0.0.0.0 ad.samsungads.com
+0.0.0.0 adtools.facebook.com
+0.0.0.0 akamaiedge.net
+0.0.0.0 ocsp.apple.com
