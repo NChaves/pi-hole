@@ -1,3 +1,6 @@
 0.0.0.0 sentry-cdn.com
+0.0.0.0 browser.sentry-cdn.com
 0.0.0.0 hicloud.com
 0.0.0.0 mozit.cloud
+0.0.0.0 samsung-com.112.2o7.net
+0.0.0.0 ads.facebook.com
