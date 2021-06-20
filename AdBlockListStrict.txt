@@ -30,3 +30,5 @@
 0.0.0.0 trouter.skype.com
 0.0.0.0 cdn.skype.com
 0.0.0.0 fris.api.iris.microsoft.com
+0.0.0.0 akamaized.net
+0.0.0.0 akamai.net
