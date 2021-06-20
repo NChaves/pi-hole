@@ -21,7 +21,11 @@
 0.0.0.0 aaplimg.com
 0.0.0.0 smoot.apple.com
 0.0.0.0 ad.xiaomi.com
-0.0.0.0 googlesyndication.com
+0.0.0.0 ade.googlesyndication.com
+0.0.0.0 tpc.googlesyndication.com
+0.0.0.0 pagead.googlesyndication.com
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 pagead2.googleadservices.com
 0.0.0.0 gstatic.com
 0.0.0.0 fbcdn.net
 0.0.0.0 triplelift-match.dotomi.com
@@ -32,3 +36,5 @@
 0.0.0.0 fris.api.iris.microsoft.com
 0.0.0.0 akamaized.net
 0.0.0.0 akamai.net
+0.0.0.0 pixel.quantserve.com
+0.0.0.0 dt.adsafeprotected.com
