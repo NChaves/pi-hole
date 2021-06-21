@@ -15,18 +15,3 @@
 # End of custom host records.
 
 #=====================================
-0.0.0.0 www.googleadservices.com
-0.0.0.0 ad.atdmt.com
-0.0.0.0 akamaiedge.net
-0.0.0.0 aaplimg.com
-0.0.0.0 smoot.apple.com
-0.0.0.0 ad.xiaomi.com
-0.0.0.0 googlesyndication.com
-0.0.0.0 gstatic.com
-0.0.0.0 fbcdn.net
-0.0.0.0 triplelift-match.dotomi.com
-0.0.0.0 giphy.com
-0.0.0.0 adnxs.com
-0.0.0.0 trouter.skype.com
-0.0.0.0 cdn.skype.com
-0.0.0.0 fris.api.iris.microsoft.com
