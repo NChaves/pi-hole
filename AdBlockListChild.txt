@@ -1,0 +1,17 @@
+# AdBlockList
+# License: MIT
+# Updated: 16:53 20 June 2021
+# More info: https://raw.githubusercontent.com/NChaves/pi-hole/main/adBlockList.txt
+
+# ===============================================================
+
+127.0.0.1 local
+127.0.0.1 localhost
+
+::1 localhost #[IPv6]
+
+# Custom host records are listed here.
+
+# End of custom host records.
+
+#=====================================
