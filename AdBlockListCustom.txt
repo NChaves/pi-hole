@@ -72,6 +72,23 @@ vidstat.taboola.com
 felix.data.tm-awx.com
 reach-id.orbit.tm-awx.com
 client-id-unifier-prod.tm-awx.com
+dpm.demdex.net
+newsquestdigitalmedia.d2.sc.omtrdc.net
+pagead2.googlesyndication.com
+google-analytics.com
+securepubads.g.doubleclick.net
+js-sec.indexww.com
+tags.crwdcntrl.net
+connect.facebook.net
+pdw-usr.userreport.com
+cdn.taboola.com
+btloader.com
+cdn.exelator.com
+cdn.parsely.com
+b-code.liadm.com
+sb.scorecardresearch.com
+carbon-cdn.ccgateway.net
+ads.rubiconproject.com
 
 # End of custom host records.
 
