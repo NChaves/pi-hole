@@ -20,4 +20,3 @@ cdn.ad.xiaomi.com
 fastly.net
 hicloud.com
 media.net
-viafoura.co
