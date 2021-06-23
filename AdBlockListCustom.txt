@@ -15,3 +15,7 @@
 # End of custom host records.
 
 #=====================================
+gstatic.com
+www.cdn.ad.xiaomi.com
+fastly.net
+hicloud.com
