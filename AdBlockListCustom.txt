@@ -20,3 +20,8 @@ cdn.ad.xiaomi.com
 fastly.net
 hicloud.com
 media.net
+privacy-location-edge.ccgateway.net
+macro.adnami.io
+script-api.ccgateway.net
+newsquestdigitalmedia.d2.sc.omtrdc.net
+carbon-cdn.ccgateway.net
