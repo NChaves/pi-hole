@@ -40,6 +40,7 @@ ads.avct.cloud
 aa.agkn.com
 match.prod.bidr.io
 ap.lijit.com
+pba.aws.lijit.com
 pixel.rubiconproject.com
 ads.pubmatic.com
 pbs.ozpr.net
@@ -52,7 +53,24 @@ sub.viafoura.co
 cdn.viafoura.net
 aswpsdkus.com
 pixel.adsafeprotected.com
-
+connect-metrics-collector.s-onetag.com
+get.s-onetag.com
+market-dev.s-onetag.com
+onetag-geo-grouping.s-onetag.com
+onetag-geo.s-onetag.com
+prebid.s-onetag.com
+signal-beacon.s-onetag.com
+signal-metrics-collector-beta.s-onetag.com
+audit-tcfv2.quantcast.mgr.consensu.org
+quantcast.mgr.consensu.org
+test.quantcast.mgr.consensu.org
+15.taboola.com
+cdn.taboola.com
+trc-events.taboola.com
+trc.taboola.com
+vidstat.taboola.com
+felix.data.tm-awx.com
+reach-id.orbit.tm-awx.com
 
 # End of custom host records.
 
