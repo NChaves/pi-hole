@@ -21,6 +21,27 @@ carbon-cdn.ccgateway.net
 s.aolcdn.com
 deff.nelreports.net
 cdn.ampproject.org
+prg.smartadserver.com
+shb.richaudience.com
+js-sec.indexww.com
+htlb.casalemedia.com
+ssum.casalemedia.com
+prebid.adnxs.com
+ib.adnxs.com
+googletagmanager.com
+cdn.adsafeprotected.com
+c.amazon-adsystem.com
+rtb.openx.net
+cm.adform.net
+x.bidswitch.net
+idswitch.net
+dmx.districtm.io
+ads.avct.cloud
+aa.agkn.com
+match.prod.bidr.io
+ap.lijit.com
+pixel.rubiconproject.com
+ads.pubmatic.com
 
 # End of custom host records.
 
