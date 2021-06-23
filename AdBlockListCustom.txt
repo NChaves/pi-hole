@@ -27,3 +27,4 @@ newsquestdigitalmedia.d2.sc.omtrdc.net
 carbon-cdn.ccgateway.net
 s.aolcdn.com
 deff.nelreports.net
+cdn.ampproject.org
