@@ -23,6 +23,7 @@ deff.nelreports.net
 cdn.ampproject.org
 prg.smartadserver.com
 shb.richaudience.com
+sync.richaudience.com
 js-sec.indexww.com
 htlb.casalemedia.com
 ssum.casalemedia.com
