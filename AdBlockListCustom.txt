@@ -25,3 +25,5 @@ macro.adnami.io
 script-api.ccgateway.net
 newsquestdigitalmedia.d2.sc.omtrdc.net
 carbon-cdn.ccgateway.net
+s.aolcdn.com
+deff.nelreports.net
