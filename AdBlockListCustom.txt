@@ -89,6 +89,10 @@ b-code.liadm.com
 sb.scorecardresearch.com
 carbon-cdn.ccgateway.net
 ads.rubiconproject.com
+syndication.twitter.com
+pdw-usr.userreport.com
+config.seedtag.com
+syndication.twitter.com
 
 # End of custom host records.
 
