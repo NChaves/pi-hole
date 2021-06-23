@@ -42,6 +42,17 @@ match.prod.bidr.io
 ap.lijit.com
 pixel.rubiconproject.com
 ads.pubmatic.com
+pbs.ozpr.net
+api.viafoura.co
+i.viafoura.co
+interaction.viafoura.co
+livecomments.viafoura.co
+notifications.viafoura.co
+sub.viafoura.co
+cdn.viafoura.net
+aswpsdkus.com
+pixel.adsafeprotected.com
+
 
 # End of custom host records.
 
