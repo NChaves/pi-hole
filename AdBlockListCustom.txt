@@ -96,6 +96,8 @@ syndication.twitter.com
 pdw-usr.userreport.com
 config.seedtag.com
 syndication.twitter.com
+get-latest.convrse.media
+
 
 # End of custom host records.
 
