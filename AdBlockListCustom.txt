@@ -97,7 +97,10 @@ pdw-usr.userreport.com
 config.seedtag.com
 syndication.twitter.com
 get-latest.convrse.media
-
+image2.pubmatic.com
+buy.tinypass.com
+experience.tinypass.com
+pdw-usr.userreport.com
 
 # End of custom host records.
 
