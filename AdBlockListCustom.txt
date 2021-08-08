@@ -107,6 +107,15 @@ click.oneplus.cn
 samsung-com.112.2o7.net
 cdn.fastclick.net
 ad.samsungads.com
+ip.parrotdns.com
+pizzaseo.com
+sl
+arbor-observatory.com
+umich.edu
+censys-scanner.com
+02.net
+recyber.net
+
 
 # End of custom host records.
 
