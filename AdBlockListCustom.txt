@@ -101,6 +101,10 @@ image2.pubmatic.com
 buy.tinypass.com
 experience.tinypass.com
 pdw-usr.userreport.com
+media.fastclick.net
+browser.sentry-cdn.com
+click.oneplus.cn
+samsung-com.112.2o7.net
 
 # End of custom host records.
 
