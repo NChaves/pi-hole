@@ -105,6 +105,8 @@ media.fastclick.net
 browser.sentry-cdn.com
 click.oneplus.cn
 samsung-com.112.2o7.net
+cdn.fastclick.net
+ad.samsungads.com
 
 # End of custom host records.
 
