@@ -120,6 +120,7 @@ app.bugsnag.com
 advertising.twitter.com
 d.reddit.com
 www.cdn.ad.xiaomi.com
+hotjar-analytics.com
 
 
 # End of custom host records.
