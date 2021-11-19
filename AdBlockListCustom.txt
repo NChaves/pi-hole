@@ -121,7 +121,9 @@ advertising.twitter.com
 d.reddit.com
 www.cdn.ad.xiaomi.com
 hotjar-analytics.com
-
+analyticsengine.s3.amazonaws.com
+affiliationjs.s3.amazonaws.com
+advertising-api-eu.amazon.com
 
 # End of custom host records.
 
