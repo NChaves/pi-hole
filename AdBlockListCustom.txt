@@ -115,6 +115,11 @@ umich.edu
 censys-scanner.com
 02.net
 recyber.net
+api.bugsnag.com
+app.bugsnag.com
+advertising.twitter.com
+d.reddit.com
+www.cdn.ad.xiaomi.com
 
 
 # End of custom host records.
