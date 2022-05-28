@@ -126,6 +126,7 @@ affiliationjs.s3.amazonaws.com
 advertising-api-eu.amazon.com
 amazonclix.com
 amazonaax.com
+stats.wp.com
 
 # End of custom host records.
 
