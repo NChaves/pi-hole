@@ -124,6 +124,8 @@ hotjar-analytics.com
 analyticsengine.s3.amazonaws.com
 affiliationjs.s3.amazonaws.com
 advertising-api-eu.amazon.com
+amazonclix.com
+amazonaax.com
 
 # End of custom host records.
 
