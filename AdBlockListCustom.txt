@@ -127,6 +127,7 @@ advertising-api-eu.amazon.com
 amazonclix.com
 amazonaax.com
 stats.wp.com
+widgets.pinterest.com
 
 # End of custom host records.
 
