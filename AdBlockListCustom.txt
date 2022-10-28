@@ -127,6 +127,7 @@ amazonclix.com
 amazonaax.com
 stats.wp.com
 widgets.pinterest.com
+cdn.http.anno.channel4.com
 
 # End of custom host records.
 
