@@ -3,11 +3,6 @@
 # Updated: 16:53 20 June 2021
 # More info: https://raw.githubusercontent.com/NChaves/pi-hole/main/adBlockList.txt
 # ===============================================================
-127.0.0.1 local
-127.0.0.1 localhost
-192.168.10.11 pihole-01
-192.168.10.12 pihole-02
-::1 localhost #[IPv6]
 # Custom host records are listed here.
 
 gstatic.com
@@ -108,7 +103,6 @@ cdn.fastclick.net
 ad.samsungads.com
 ip.parrotdns.com
 pizzaseo.com
-sl
 arbor-observatory.com
 umich.edu
 censys-scanner.com
