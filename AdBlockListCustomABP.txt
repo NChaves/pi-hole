@@ -1,0 +1,3 @@
+### Custom ABP List
+
+||ads.example.com^
