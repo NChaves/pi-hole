@@ -4,3 +4,4 @@
 ||edge.skype.com^
 ||cdn-apple.com^
 ||advoncommerce.com^
+||privacymanager.io^
