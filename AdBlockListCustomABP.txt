@@ -1,3 +1,6 @@
 ### Custom ABP List
 
-||ads.example.com^
+||go-mpulse.net^
+||edge.skype.com^
+||cdn-apple.com^
+
