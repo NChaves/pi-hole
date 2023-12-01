@@ -5,3 +5,4 @@
 ||cdn-apple.com^
 ||advoncommerce.com^
 ||privacymanager.io^
+||anyclip.com^
