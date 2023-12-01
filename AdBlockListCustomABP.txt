@@ -6,3 +6,5 @@
 ||advoncommerce.com^
 ||privacymanager.io^
 ||anyclip.com^
+||gatekeeperconsent.com^
+||ezodn.com^
