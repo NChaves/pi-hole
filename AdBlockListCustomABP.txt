@@ -9,3 +9,4 @@
 ||gatekeeperconsent.com^
 ||ezodn.com^
 ||ipv4.icanhazip.com^
+||conde.digital^
