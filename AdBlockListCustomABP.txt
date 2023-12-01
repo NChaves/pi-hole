@@ -8,3 +8,4 @@
 ||anyclip.com^
 ||gatekeeperconsent.com^
 ||ezodn.com^
+||ipv4.icanhazip.com^
