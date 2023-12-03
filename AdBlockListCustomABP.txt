@@ -11,3 +11,10 @@
 ||ipv4.icanhazip.com^
 ||conde.digital^
 ||avo.app^
+||salesforceliveagent.com^
+||intheseom.net^
+||cdnral.com^
+||scarfsmash.com^
+||getadmiral.com^
+||cmtelematics.com^
+
