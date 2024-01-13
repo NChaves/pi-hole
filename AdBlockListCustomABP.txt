@@ -23,3 +23,4 @@
 ||liftoff.io^
 ||unityads.unity3d.com^
 ||applovin.com^
+||firwinds.site^
