@@ -130,6 +130,10 @@ bam.nr-data.net
 bam-cell.nr-data.net
 whimsicalgrove.com
 arrivegrowth.com
+heads-fa.spotify.com
+spclient.wg.spotify.com
+wl.spotify.com
+adeventtrackermonitoring.spotify.com
 
 # End of custom host records.
 
