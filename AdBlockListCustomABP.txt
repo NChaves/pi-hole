@@ -24,3 +24,5 @@
 ||unityads.unity3d.com^
 ||applovin.com^
 ||firwinds.site^
+||adsmoloco.com^
+||doubleclick.net^
