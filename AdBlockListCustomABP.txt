@@ -29,3 +29,5 @@
 ||haobird.site^
 ||adsystem.com^
 ||unity3d.com^
+||external-preview.redd.it^
+||styles.redditmedia.com^
