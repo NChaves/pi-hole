@@ -31,3 +31,4 @@
 ||unity3d.com^
 ||external-preview.redd.it^
 ||styles.redditmedia.com^
+||ad-delivery.net^
