@@ -32,4 +32,8 @@
 ||ad-delivery.net^
 ||verdantloom.com^
 ||kueezrtb.com^
-||c4assets-com.akamaized.net
+||c4assets-com.akamaized.net^
+||ads.a2z.com^
+||adsystem.com^
+||ia.media-imdb.com^
+
