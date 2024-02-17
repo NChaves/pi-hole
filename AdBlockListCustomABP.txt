@@ -36,4 +36,5 @@
 ||ads.a2z.com^
 ||adsystem.com^
 ||ia.media-imdb.com^
+||mediatailor.com^
 
