@@ -125,7 +125,6 @@ cdn.http.anno.channel4.com
 k.pluto.tv
 cdn.privacy-mgmt.com
 nevoai-iothub-70-prod.azure-devices.net
-external-preview.redd.it
 bam.nr-data.net
 bam-cell.nr-data.net
 whimsicalgrove.com
