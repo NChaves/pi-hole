@@ -30,3 +30,6 @@
 ||adsystem.com^
 ||unity3d.com^
 ||ad-delivery.net^
+||verdantloom.com^
+||kueezrtb.com^
+||c4assets-com.akamaized.net
