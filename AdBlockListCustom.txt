@@ -132,7 +132,6 @@ arrivegrowth.com
 heads-fa.spotify.com
 wl.spotify.com
 adeventtrackermonitoring.spotify.com
-dcipc.i.tplinknbu.com
 
 # End of custom host records.
 
