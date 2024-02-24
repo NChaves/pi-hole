@@ -1099,6 +1099,7 @@
 ||shesubscriptions.com^
 ||shinesavage.com^
 ||shinestuart.com^
+||shinypond.com^
 ||shiveringsail.com^
 ||shiverscissors.com^
 ||shockinggrass.com^
