@@ -436,6 +436,7 @@
 ||elderlytown.com^
 ||elephantqueue.com^
 ||eliminateeffect.com^
+||embermosaic.com^
 ||eminentbubble.com^
 ||emptyescort.com^
 ||enchantedjudge.com^
@@ -751,6 +752,7 @@
 ||markedcrayon.com^
 ||markedmeasure.com^
 ||markedpail.com^
+||marketspiders.com^
 ||marriedmailbox.com^
 ||massivebasket.com^
 ||massivemark.com^
@@ -874,6 +876,7 @@
 ||petiteumbrella.com^
 ||photographpan.com^
 ||physicalbikes.com^
+||piespower.com^
 ||pietexture.com^
 ||pigspie.com^
 ||pinpointpotato.com^
@@ -1066,6 +1069,7 @@
 ||scrollservice.com^
 ||scrubsky.com^
 ||scrubswim.com^
+||seashoresociety.com^
 ||seatsmoke.com^
 ||secondhandfall.com^
 ||secretivecub.com^
@@ -1235,6 +1239,7 @@
 ||steadfastsound.com^
 ||steadfastsystem.com^
 ||steadycopper.com^
+||stealsteel.com^
 ||steepsquirrel.com^
 ||stepplane.com^
 ||stereoproxy.com^
@@ -1283,6 +1288,7 @@
 ||suddenstructure.com^
 ||sugarcurtain.com^
 ||sugarfriction.com^
+||suggestionbridge.com^
 ||sulkybutter.com^
 ||sulkycook.com^
 ||summerhamster.com^
@@ -1317,6 +1323,7 @@
 ||tastesnake.com^
 ||tawdryson.com^
 ||tdzvm.pw^
+||tearfulglass.com^
 ||tedioustooth.com^
 ||teenytinycellar.com^
 ||teenytinyshirt.com^
@@ -1430,6 +1437,7 @@
 ||virgoplato.com^
 ||virtualvincent.com^
 ||vivaciousveil.com^
+||vividmeadow.com^
 ||voicevegetable.com^
 ||voraciousgrip.com^
 ||voyagepotato.com^
