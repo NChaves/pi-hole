@@ -37,4 +37,6 @@
 ||adsystem.com^
 ||ia.media-imdb.com^
 ||mediatailor.com^
-
+||inmobi.com^
+||tm-awx.com^
+||lrcontent.com^
