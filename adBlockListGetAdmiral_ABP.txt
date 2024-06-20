@@ -441,6 +441,7 @@
 ||emptyescort.com^
 ||enchantedjudge.com^
 ||enchantedtop.com^
+||enchantingdiscovery.com^
 ||encourageidea.com^
 ||encourageshock.com^
 ||encouragingleaf.com^
@@ -709,6 +710,7 @@
 ||lameletters.com^
 ||lamplow.com^
 ||languagelake.com^
+||lasttaco.com^
 ||laughablecopper.com^
 ||laughablelizards.com^
 ||laughcloth.com^
@@ -881,6 +883,7 @@
 ||pietexture.com^
 ||pigspie.com^
 ||pinpointpotato.com^
+||piquantgrove.com^
 ||piquantpigs.com^
 ||piquantprice.com^
 ||piquantstove.com^
@@ -1314,6 +1317,7 @@
 ||synthesizescarecrow.com^
 ||synthesizespoon.com^
 ||systemizecoat.com^
+||tacojournal.com^
 ||talentedsteel.com^
 ||tangibleteam.com^
 ||tangyamount.com^
@@ -1438,6 +1442,7 @@
 ||virgoplato.com^
 ||virtualvincent.com^
 ||vivaciousveil.com^
+||vividcanopy.com^
 ||vividmeadow.com^
 ||voicevegetable.com^
 ||voraciousgrip.com^
@@ -1488,9 +1493,3 @@
 ||zestywire.com^
 ||zippywind.com^
 ||zlp6s.pw^
-||vividcanopy.com^
-||enchantingdiscovery.com^
-||piquantgrove.com^
-||lasttaco.com^
-||tacojournal.com^
-
