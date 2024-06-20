@@ -1492,4 +1492,5 @@
 ||enchantingdiscovery.com^
 ||piquantgrove.com^
 ||lasttaco.com^
+||tacojournal.com^
 
