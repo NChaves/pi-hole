@@ -133,6 +133,7 @@ heads-fa.spotify.com
 wl.spotify.com
 adeventtrackermonitoring.spotify.com
 exitbee.com
+cdn.cookielaw.org
 
 # End of custom host records.
 
