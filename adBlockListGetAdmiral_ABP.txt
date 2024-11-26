@@ -1493,3 +1493,4 @@
 ||zestywire.com^
 ||zippywind.com^
 ||zlp6s.pw^
+||privacy-mgmt.com^
