@@ -40,3 +40,4 @@
 ||inmobi.com^
 ||tm-awx.com^
 ||lrcontent.com^
+||salespop.com^
