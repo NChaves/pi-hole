@@ -1,0 +1,26 @@
+# As per Reddit thread: https://www.reddit.com/r/pihole/comments/115fpng/comment/m8mijnv/?context=3
+# Channel4
+
+||ads.channel4.com^
+||cdn.http.anno.channel4.com^
+||cdn.ss.anno.channel4.com^
+||channel4.com.112.2o7.net^
+||channel4.com.sc.omtrdc.net^
+||channel4.com.ssl.sc.omtrdc.net^
+||ic.channel4.com^
+||monitor.channel4.com^
+||sexperienceuk.channel4.com^
+||webstat.channel4.com^
+||webstats.channel4.com ^
+
+# ITV
+# This may cause ITV to freeze at some ads, just go back and resume episode
+
+||.conviva.com^
+||mediaservices.cdn-apple.com^
+||cpt.itv.com^
+||tom.itv.com^
+||mercury.itv.com^
+||ads.itv.com^
+||.prd.content.itv.com^
+||.prd.user.itv.com^
