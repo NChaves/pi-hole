@@ -16,7 +16,7 @@
 # ITV
 # This may cause ITV to freeze at some ads, just go back and resume episode
 
-||.conviva.com^
+||.conviva.com^ # This causes ITV to freeze at the ad, but going back and resuming will resume past the ad
 ||mediaservices.cdn-apple.com^
 ||cpt.itv.com^
 ||tom.itv.com^
