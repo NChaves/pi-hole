@@ -55,6 +55,3 @@
 ||is.com^
 ||redirector.googlevideo.com^
 ||pangleglobal.com^
-||^
-||^
-||^
