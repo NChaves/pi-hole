@@ -51,3 +51,10 @@
 ||adserver.unityads.unity3d.com^
 ||unityads.unity3d.com^
 ||ironSource.mobi^
+||yandex.ru^
+||is.com^
+||redirector.googlevideo.com^
+||pangleglobal.com^
+||^
+||^
+||^
