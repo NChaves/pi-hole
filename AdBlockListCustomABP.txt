@@ -41,3 +41,13 @@
 ||tm-awx.com^
 ||lrcontent.com^
 ||salespop.com^
+||ads.microsoft.com^
+||api.vungle.com^
+||vungle.com^
+||adtech.yahooinc.com^
+||auction.unityads.unity3d.com^
+||webview.unityads.unity3d.com^
+||config.unityads.unity3d.com^
+||adserver.unityads.unity3d.com^
+||unityads.unity3d.com^
+||ironSource.mobi^
