@@ -150,6 +150,26 @@ o2.mouseflow.com
 fwtracks.freshmarketer.com
 claritybt.freshmarketer.com
 api.luckyorange.com
+greatis.com
+bingads.microsoft.com
+ads.microsoft.com
+s.youtube.com
+youtubei.googleapis.com
+pixel.adsafeprotected.com
+static.adsafeprotected.com
+fw.adsafeprotected.com
+graph.instagram.com
+i.instagram.com
+xp.apple.com
+settings-win.data.microsoft.com
+vortex.data.microsoft.com
+vortex-win.data.microsoft.com
+watson.telemetry.microsoft.com
+ads.roku.com
+app.usercentrics.eu
+g.jwpsrv.com
+ssl.p.jwpcdn.com
+dai.google.com
 
 # End of custom host records.
 
