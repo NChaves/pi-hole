@@ -9,7 +9,6 @@
 @@||widget.trustpilot.com^
 @@||graph.instagram.com^
 @@||in.appcenter.ms^
-@@||encrypted-*.gstatic.com^
 @@||mobile.pipe.aria.microsoft.com^
 @@||roku.com^
 @@||ravm.tv^
