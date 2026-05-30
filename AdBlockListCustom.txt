@@ -134,6 +134,22 @@ wl.spotify.com
 adeventtrackermonitoring.spotify.com
 exitbee.com
 cdn.cookielaw.org
+stats.wp.com
+app.getsentry.com
+events3alt.adcolony.com
+ads30.adcolony.com
+adc3-launch.adcolony.com
+wd.adcolony.com
+api.mouseflow.com
+an.facebook.com
+pixel.facebook.com
+mouseflow.com
+mediavisor.doubleclick.net
+tools.mouseflow.com
+o2.mouseflow.com
+fwtracks.freshmarketer.com
+claritybt.freshmarketer.com
+api.luckyorange.com
 
 # End of custom host records.
 
