@@ -154,7 +154,6 @@ greatis.com
 bingads.microsoft.com
 ads.microsoft.com
 s.youtube.com
-youtubei.googleapis.com
 pixel.adsafeprotected.com
 static.adsafeprotected.com
 fw.adsafeprotected.com
