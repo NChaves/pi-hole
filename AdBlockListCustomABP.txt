@@ -56,3 +56,7 @@
 ||redirector.googlevideo.com^
 ||pangleglobal.com^
 ||cookiebot.com^
+||whoeverbeyond.com^
+||content-loader.com^
+||html-load.com^
+||error-report.com^
