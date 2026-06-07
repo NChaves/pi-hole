@@ -44,3 +44,4 @@
 @@||analytics.localytics.com^
 @@||applovin.com^
 @@||github.com^
+@@||youtubei.googleapis.com^
