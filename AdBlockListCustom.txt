@@ -169,6 +169,13 @@ app.usercentrics.eu
 g.jwpsrv.com
 ssl.p.jwpcdn.com
 dai.google.com
+fwtracks.freshmarketer.com
+realtime.luckyorange.com
+pixel.facebook.com
+assets.springserve.com
+vid-io-dub.springserve.com
+creativereview-wurl.kidoodle.tv
+www.popularmechanics.com
 
 # End of custom host records.
 
