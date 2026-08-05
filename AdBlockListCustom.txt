@@ -178,6 +178,7 @@ creativereview-wurl.kidoodle.tv
 www.popularmechanics.com
 fundingchoicesmessages.google.com
 barra.xl.pt
+assinaturas.xl.pt
 
 # End of custom host records.
 
