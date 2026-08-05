@@ -65,3 +65,4 @@
 ||condenast.com^
 ||bixbyllm.com^
 ||warp90.com^
+||hearstapps.com^
