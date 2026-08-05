@@ -179,6 +179,7 @@ www.popularmechanics.com
 fundingchoicesmessages.google.com
 barra.xl.pt
 assinaturas.xl.pt
+aminhaconta.xl.pt
 
 # End of custom host records.
 
